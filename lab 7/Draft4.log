@@ -1,0 +1,45 @@
+Circuit: * C:\Users\SWARUP\Desktop\2ND YEAR\2-1\DIGITAL DESIGN\DD LABS\DIGITAL DESIGN LAB SOLUTIONS\lab 7\Draft4.asc
+
+WARNING: Less than two connections to node U1:DP.  This node is used by A:U1:DDEL.
+WARNING: Less than two connections to node NC_01.  This node is used by R:U1:OUT2:OUT.
+WARNING: Less than two connections to node U2:DP.  This node is used by A:U2:DDEL.
+WARNING: Less than two connections to node NC_02.  This node is used by R:U2:OUT2:OUT.
+WARNING: Less than two connections to node U3:DP.  This node is used by A:U3:DDEL.
+WARNING: Less than two connections to node NC_03.  This node is used by R:U3:OUT2:OUT.
+WARNING: Less than two connections to node U5:DP.  This node is used by A:U5:DDEL.
+WARNING: Less than two connections to node NC_04.  This node is used by R:U5:OUT2:OUT.
+WARNING: Less than two connections to node U6:DP.  This node is used by A:U6:DDEL.
+WARNING: Less than two connections to node N006.  This node is used by R:U6:OUT1:OUT.
+WARNING: Less than two connections to node NC_05.  This node is used by R:U6:OUT2:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+
+Date: Thu Dec 10 12:08:24 2020
+Total elapsed time: 0.530 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 25569
+traniter = 25562
+tranpoints = 11646
+accept = 9712
+rejected = 1934
+matrix size = 171
+fillins = 0
+solver = Normal
+Thread vector: 8.0/4.5[5] 1.9/4.7[1] 1.8/3.5[1] 0.3/1.5[1]  2592/500
+Matrix Compiler1: 4.40 KB object code size  0.8/0.5/[0.2]
+Matrix Compiler2: 8.52 KB object code size  0.5/1.1/[0.4]
+

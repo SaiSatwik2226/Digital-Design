@@ -1,0 +1,3 @@
+vhdtdtfi -lib work {C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab-6/four_bit_adder.v} -lang verilog -prj lab-6 -o four_bit_Adder.spl -module four_bit_Adder -template C:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 four_bit_Adder.spl {C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab-6/four_bit_Adder.sym} 
+xst -intstyle ise -ifn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab-6/four_bit_Adder.xst" -ofn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab-6/four_bit_Adder.syr" 

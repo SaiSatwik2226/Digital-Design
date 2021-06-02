@@ -1,0 +1,10 @@
+Command line:
+   T_ff_tests_isim_beh.exe
+     -simmode  gui
+     -simrunnum  2
+     -socket  53369
+
+Tue Nov 10 09:57:46 2020
+
+
+ Elaboration Time: 0.046875 sec

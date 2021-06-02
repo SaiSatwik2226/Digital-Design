@@ -1,0 +1,4 @@
+verilog isim_temp "D_flipflop_with_Reset.v"
+verilog isim_temp "Binary_counter_2_bit.v"
+verilog isim_temp "Binary_counter_2_bit_tests.v"
+verilog isim_temp "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"

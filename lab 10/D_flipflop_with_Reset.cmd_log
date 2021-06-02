@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab10/D_flipflop_with_Reset.xst" -ofn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab10/D_flipflop_with_Reset.syr" 

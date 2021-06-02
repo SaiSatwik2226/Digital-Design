@@ -1,0 +1,30 @@
+Circuit: * C:\Users\SWARUP\Desktop\2-1\DD\DIGITAL DESIGN\lab 1\2019A3PS1323H_1ST.asc
+
+WARNING: Less than two connections to node F.  This node is used by R:U7:OUT:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+
+Date: Mon Aug 24 20:43:28 2020
+Total elapsed time: 0.215 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4368
+traniter = 4357
+tranpoints = 2047
+accept = 1863
+rejected = 184
+matrix size = 62
+fillins = 3
+solver = Normal
+Matrix Compiler1: 1.70 KB object code size  1.0/0.6/[0.3]
+Matrix Compiler2: off  [0.5]/1.2/0.6
+

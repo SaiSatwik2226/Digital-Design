@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab5/half_adder.xst" -ofn "C:/Users/SWARUP/Desktop/2ND YEAR/2-1/DIGITAL DESIGN/DD LABS/xilinx_exp/lab5/half_adder.syr" 

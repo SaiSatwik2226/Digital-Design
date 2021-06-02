@@ -1,0 +1,10 @@
+[Inputs]
+=A[3:0]=
+=B[3:0]=
+[Outputs]
+Carry
+=SUM[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel four_bit_Adder
+

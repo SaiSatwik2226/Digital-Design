@@ -1,0 +1,3 @@
+verilog work "parity.v"
+verilog work "parity_tests.v"
+verilog work "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"

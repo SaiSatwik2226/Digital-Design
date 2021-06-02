@@ -1,0 +1,29 @@
+Command line:
+   four_bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60272
+
+Tue Sep 22 15:51:43 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5145.42 Meg
+
+ Total Signals          : 99
+ Total Nets             : 42
+ Total Signal Drivers   : 34
+ Total Blocks           : 15
+ Total Primitive Blocks : 9
+ Total Processes        : 36
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 131
+Total Line Count : 42
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5145.42 Meg
+
+Tue Sep 22 15:52:08 2020
+

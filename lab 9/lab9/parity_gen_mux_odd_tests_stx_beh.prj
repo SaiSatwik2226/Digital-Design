@@ -1,0 +1,2 @@
+verilog isim_temp "parity_gen_mux_odd_tests.v"
+verilog isim_temp "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"

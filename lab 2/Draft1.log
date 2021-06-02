@@ -1,0 +1,4 @@
+Circuit: * C:\Users\SWARUP\Desktop\2ND YEAR\2-1\DIGITAL DESIGN\DD LABS\DIGITAL DESIGN LAB SOLUTIONS\lab 2\Draft1.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 n001 clk n001 n001 b bbar vcc 0 74hct107 vcc=5 speed=1.0 tripdt=1e-9

@@ -1,0 +1,77 @@
+Circuit: * C:\Users\SWARUP\Desktop\2-1\DD\DIGITAL DESIGN\lab 1\2019A3PS1323H__.asc
+
+WARNING: Less than two connections to node F1.  This node is used by R:U5:OUT:OUT.
+WARNING: Less than two connections to node F2.  This node is used by R:U9:OUT:OUT.
+WARNING: Less than two connections to node F3.  This node is used by R:U11:OUT:OUT.
+WARNING: Less than two connections to node F4.  This node is used by R:U17:OUT:OUT.
+WARNING: Less than two connections to node F5.  This node is used by R:U23:OUT:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u13:vcc)
+Ignoring empty pin current: Ix(u14:vcc)
+Ignoring empty pin current: Ix(u15:vcc)
+Ignoring empty pin current: Ix(u12:vcc)
+Ignoring empty pin current: Ix(u16:vcc)
+Ignoring empty pin current: Ix(u17:vcc)
+Ignoring empty pin current: Ix(u18:vcc)
+Ignoring empty pin current: Ix(u19:vcc)
+Ignoring empty pin current: Ix(u20:vcc)
+Ignoring empty pin current: Ix(u21:vcc)
+Ignoring empty pin current: Ix(u22:vcc)
+Ignoring empty pin current: Ix(u23:vcc)
+Ignoring empty pin current: Ix(u24:vcc)
+Ignoring empty pin current: Ix(u25:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u13:vcc)
+Ignoring empty pin current: Ix(u14:vcc)
+Ignoring empty pin current: Ix(u15:vcc)
+Ignoring empty pin current: Ix(u12:vcc)
+Ignoring empty pin current: Ix(u16:vcc)
+Ignoring empty pin current: Ix(u17:vcc)
+Ignoring empty pin current: Ix(u18:vcc)
+Ignoring empty pin current: Ix(u19:vcc)
+Ignoring empty pin current: Ix(u20:vcc)
+Ignoring empty pin current: Ix(u21:vcc)
+Ignoring empty pin current: Ix(u22:vcc)
+Ignoring empty pin current: Ix(u23:vcc)
+Ignoring empty pin current: Ix(u24:vcc)
+Ignoring empty pin current: Ix(u25:vcc)
+
+Date: Tue Aug 25 10:47:51 2020
+Total elapsed time: 0.525 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5686
+traniter = 5671
+tranpoints = 2557
+accept = 2236
+rejected = 321
+matrix size = 331
+fillins = 16
+solver = Normal
+Thread vector: 82.0/42.3[8] 14.9/10.1[7] 12.1/6.6[8] 0.7/3.7[1]  2592/500
+Matrix Compiler1: 9.14 KB object code size  4.8/2.3/[0.7]
+Matrix Compiler2: 17.42 KB object code size  2.8/5.6/[1.3]
+

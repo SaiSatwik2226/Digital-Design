@@ -1,0 +1,39 @@
+Circuit: * C:\Users\SWARUP\Desktop\2ND YEAR\2-1\DIGITAL DESIGN\DD LABS\DIGITAL DESIGN LAB SOLUTIONS\lab 3\2019A3PS1323H_BCD_ADDER.asc
+
+WARNING: Less than two connections to node S1.  This node is used by R:U2:OUT1:OUT.
+WARNING: Less than two connections to node S2.  This node is used by R:U2:OUT2:OUT.
+WARNING: Less than two connections to node S3.  This node is used by R:U2:OUT3:OUT.
+WARNING: Less than two connections to node S4.  This node is used by R:U2:OUT4:OUT.
+WARNING: Less than two connections to node NC_01.  This node is used by R:U2:OUT5:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+
+Date: Tue Sep 08 09:34:43 2020
+Total elapsed time: 0.373 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6632
+traniter = 6611
+tranpoints = 2984
+accept = 2585
+rejected = 399
+matrix size = 244
+fillins = 9
+solver = Normal
+Thread vector: 26.2/12.3[8] 9.8/4.5[8] 8.1/5.2[8] 0.3/2.0[1]  2592/500
+Matrix Compiler1: 5.75 KB object code size  2.5/2.7/[0.8]
+Matrix Compiler2: 11.79 KB object code size  2.3/5.1/[0.7]
+

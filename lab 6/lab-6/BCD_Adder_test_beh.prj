@@ -1,0 +1,3 @@
+verilog work "BCD_Adder.v"
+verilog work "BCD_Adder_test.v"
+verilog work "C:/Xilinx/14.1/ISE_DS/ISE//verilog/src/glbl.v"
